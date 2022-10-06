@@ -1,3 +1,6 @@
+## 4.1.3
+* Downgrade to support Flutter 2.8.1
+
 ## 4.1.2
 * Add filePaths instruction for Android in README.md
 * Fix parse args not filtering commands properly

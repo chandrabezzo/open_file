@@ -8,7 +8,7 @@ To use this plugin, add [open_filex](https://pub.dev/packages/open_filex/install
 
 ## Example
 ```
-import 'package:open_filex/open_filex.dart';
+import 'package:open_file/open_filex.dart';
 
 OpenFilex.open("/sdcard/text.txt");
 ```

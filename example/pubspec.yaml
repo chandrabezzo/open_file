@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  open_filex:
+  open_file:
     path: ../
 
 dev_dependencies:

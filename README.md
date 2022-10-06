@@ -13,7 +13,7 @@ dependencies:
 
 ## Example
 ```dart
-import 'package:open_filex/open_filex.dart';
+import 'package:open_file/open_filex.dart';
 
 OpenFilex.open("/sdcard/example.txt");
 ```
