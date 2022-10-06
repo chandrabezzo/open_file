@@ -17,7 +17,7 @@ class MyAppState extends State<MyApp> {
 
   Future<void> openFile() async {
     const filePath = '/storage/emulated/0/Download/flutter.png';
-    final result = await OpenFilex.open(filePath);
+    final result = await OpenFile.open(filePath);
 
     setState(() {
       _openResult = "type=${result.type}  message=${result.message}";

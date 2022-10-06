@@ -9,10 +9,10 @@ import 'windows.dart' as windows;
 import 'linux.dart' as linux;
 
 /// OpenFilex class
-class OpenFilex {
+class OpenFile {
   static const MethodChannel _channel = MethodChannel('open_file');
 
-  OpenFilex._();
+  OpenFile._();
 
   ///linuxDesktopName like 'xdg'/'gnome'
   static Future<OpenResult> open(String? filePath,
