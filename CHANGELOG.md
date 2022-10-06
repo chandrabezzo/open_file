@@ -1,4 +1,4 @@
-## 4.1.1
+## 4.1.2
 * Add filePaths instruction for Android in README.md
 * Fix parse args not filtering commands properly
 * Fix viewController is not recognized in iOS
