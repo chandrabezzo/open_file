@@ -1,3 +1,6 @@
+## 4.1.4
+* Change podspec open_filex
+
 ## 4.1.3
 * Downgrade to support Flutter 2.8.1
 
